@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Emerald Blessing of Protection
+## Author: Nyxxis
+## Version: 2.137
+## SavedVariablesPerCharacter: EmeraldBlessingOfProtection_Config
+
+EmeraldBlessingOfProtection.xml
+EmeraldBlessingOfProtection.lua
